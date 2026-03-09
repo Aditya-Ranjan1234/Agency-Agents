@@ -112,6 +112,8 @@ Growing your audience, one authentic interaction at a time.
 | 📕 [Xiaohongshu Specialist](marketing/marketing-xiaohongshu-specialist.md) | Lifestyle content, trend-driven strategy | Xiaohongshu growth, aesthetic storytelling, Gen Z audience |
 | 💬 [WeChat Official Account Manager](marketing/marketing-wechat-official-account.md) | Subscriber engagement, content marketing | WeChat OA strategy, community building, conversion optimization |
 | 🧠 [Zhihu Strategist](marketing/marketing-zhihu-strategist.md) | Thought leadership, knowledge-driven engagement | Zhihu authority building, Q&A strategy, lead generation |
+| 🔍 [SEO Optimization Expert](marketing/marketing-seo-optimization-expert.md) | Technical SEO audits, schema markup, Core Web Vitals | Organic search growth, technical SEO issues, SEO migrations |
+| 🎬 [Video Optimization Specialist](marketing/marketing-video-optimization-specialist.md) | YouTube algorithm strategy, chaptering, thumbnail concepts | YouTube channel growth, video SEO, audience retention optimization |
 
 ### 📊 Product Division
 
